@@ -1,0 +1,33 @@
+# Maven
+/target/
+**/target/
+
+# Eclipse / IntelliJ / VSCode
+.classpath
+.project
+.settings/
+.vscode/
+.idea/
+*.iml
+
+# IDE files
+/.DS_Store
+
+# Logs
+*.log
+
+# Build outputs
+*.war
+*.jar
+
+# node / npm artifacts (not used but safe)
+node_modules/
+
+# Generated sources by wsimport
+/RecetteClient/target/
+/RecetteClient/target/**
+/RecetteClient/target-generated-sources/
+
+# Temporary files
+*.tmp
+*.bak
