@@ -1,0 +1,13 @@
+/workspace/src/main/java/com/recette/client/ui/RecetteClientApp.java
+/workspace/target/generated-sources/wsimport/com/recette/client/stub/package-info.java
+/workspace/target/generated-sources/wsimport/com/recette/client/stub/ChercherRecettesParIngredient.java
+/workspace/target/generated-sources/wsimport/com/recette/client/stub/HelloResponse.java
+/workspace/target/generated-sources/wsimport/com/recette/client/stub/GetAllRecettes.java
+/workspace/src/main/java/com/recette/client/cli/RecetteClientCli.java
+/workspace/target/generated-sources/wsimport/com/recette/client/stub/Hello.java
+/workspace/target/generated-sources/wsimport/com/recette/client/stub/RecetteWebService_Service.java
+/workspace/target/generated-sources/wsimport/com/recette/client/stub/Recette.java
+/workspace/target/generated-sources/wsimport/com/recette/client/stub/ChercherRecettesParIngredientResponse.java
+/workspace/target/generated-sources/wsimport/com/recette/client/stub/ObjectFactory.java
+/workspace/target/generated-sources/wsimport/com/recette/client/stub/GetAllRecettesResponse.java
+/workspace/target/generated-sources/wsimport/com/recette/client/stub/RecetteWebService.java
